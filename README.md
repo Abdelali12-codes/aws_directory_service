@@ -18,3 +18,6 @@
 14. https://aws.amazon.com/blogs/security/how-to-set-up-sso-to-the-aws-management-console-for-multiple-accounts-by-using-ad-fs-and-saml-2-0/
 15. https://aws.amazon.com/blogs/security/how-to-enable-ldaps-for-your-aws-microsoft-ad-directory/#step1
 16. https://openvpn.net/community-downloads/
+17. https://docs.aws.amazon.com/directoryservice/latest/admin-guide/prereq_connector.html
+18. https://docs.aws.amazon.com/directoryservice/latest/admin-guide/ad_connector_seamlessly_join_linux_instance.html
+19. https://docs.aws.amazon.com/directoryservice/latest/admin-guide/directory_join_privileges.html
