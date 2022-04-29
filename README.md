@@ -17,3 +17,4 @@
 13. https://aws.amazon.com/blogs/networking-and-content-delivery/using-aws-sso-with-aws-client-vpn-for-authentication-and-authorization/?nc1=b_rp
 14. https://aws.amazon.com/blogs/security/how-to-set-up-sso-to-the-aws-management-console-for-multiple-accounts-by-using-ad-fs-and-saml-2-0/
 15. https://aws.amazon.com/blogs/security/how-to-enable-ldaps-for-your-aws-microsoft-ad-directory/#step1
+16. https://openvpn.net/community-downloads/
