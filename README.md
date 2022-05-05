@@ -21,3 +21,4 @@
 17. https://docs.aws.amazon.com/directoryservice/latest/admin-guide/prereq_connector.html
 18. https://docs.aws.amazon.com/directoryservice/latest/admin-guide/ad_connector_seamlessly_join_linux_instance.html
 19. https://docs.aws.amazon.com/directoryservice/latest/admin-guide/directory_join_privileges.html
+20. https://docs.aws.amazon.com/directoryservice/latest/admin-guide/ms_ad_tutorial_setup_trust_create.html
